@@ -16,3 +16,7 @@ BackPlugin 是一个为 Terraria 游戏服务器设计的插件，由 Megghy 开
 
 ## 配置
 插件的配置文件位于 `TShock.SavePath\back.json`。你可以修改 `BackCooldown` 属性来设置冷却时间。
+
+## 支持与反馈
+- 如果您在使用过程中遇到问题或有任何建议，欢迎在官方论坛或社区中提出issues或pr。
+- github仓库：https://github.com/THEXN/back
