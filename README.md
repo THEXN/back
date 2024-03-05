@@ -10,7 +10,7 @@ BackPlugin 是一个为 Terraria 游戏服务器设计的插件，由 Megghy 开
 
 ## 安装与使用
 1. 下载 BackPlugin 插件。
-2. 将插件文件放置在 Terraria 服务器的 `Plugins` 文件夹中。
+2. 将插件文件放置在 Terraria 服务器的 `ServerPlugins` 文件夹中。
 3. 启动服务器，插件会自动加载。
 4. 在游戏内，玩家可以通过输入 `/back` 命令来使用插件功能。
 
